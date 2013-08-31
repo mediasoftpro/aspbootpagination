@@ -23,5 +23,6 @@ pagination2.paginationStyle = 1; // 1: advance, 0: simple pagination
 pagination2.showFirst = true;
 pagination2.showLast = true;
 pagination2.BindPagination();
-</pre
+</pre>
+
 For more detail / example codes / visit http://www.mediasoftpro.com/products/aspbootpagination/
